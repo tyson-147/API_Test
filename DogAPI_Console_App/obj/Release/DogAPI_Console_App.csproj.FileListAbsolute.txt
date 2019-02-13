@@ -1,0 +1,11 @@
+C:\Users\ttoplis\source\repos\DogAPI_Console_App\DogAPI_Console_App\bin\Release\DogAPI_Console_App.exe.config
+C:\Users\ttoplis\source\repos\DogAPI_Console_App\DogAPI_Console_App\bin\Release\DogAPI_Console_App.exe
+C:\Users\ttoplis\source\repos\DogAPI_Console_App\DogAPI_Console_App\bin\Release\DogAPI_Console_App.pdb
+C:\Users\ttoplis\source\repos\DogAPI_Console_App\DogAPI_Console_App\bin\Release\Newtonsoft.Json.dll
+C:\Users\ttoplis\source\repos\DogAPI_Console_App\DogAPI_Console_App\bin\Release\Newtonsoft.Json.pdb
+C:\Users\ttoplis\source\repos\DogAPI_Console_App\DogAPI_Console_App\bin\Release\Newtonsoft.Json.xml
+C:\Users\ttoplis\source\repos\DogAPI_Console_App\DogAPI_Console_App\obj\Release\DogAPI_Console_App.csprojAssemblyReference.cache
+C:\Users\ttoplis\source\repos\DogAPI_Console_App\DogAPI_Console_App\obj\Release\DogAPI_Console_App.csproj.CoreCompileInputs.cache
+C:\Users\ttoplis\source\repos\DogAPI_Console_App\DogAPI_Console_App\obj\Release\DogAPI_Console_App.csproj.CopyComplete
+C:\Users\ttoplis\source\repos\DogAPI_Console_App\DogAPI_Console_App\obj\Release\DogAPI_Console_App.exe
+C:\Users\ttoplis\source\repos\DogAPI_Console_App\DogAPI_Console_App\obj\Release\DogAPI_Console_App.pdb
